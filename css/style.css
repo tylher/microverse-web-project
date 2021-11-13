@@ -13,19 +13,25 @@
 }
 
 #tribute-info {
-    padding: 30px 500px 10px 500px; 
-    text-align: left;
-    -ms-text-size-adjust: auto;
+  padding: 30px 500px 10px 500px;
+  text-align: left;
+  -ms-text-size-adjust: auto;
+}
+#link {
+  font-weight: bold;
 }
 
 #tribute-info h2 {
-    text-align: center;
+  text-align: center;
 }
 
 #tribute-info ul li {
-    margin: 30px;
+  margin: 30px;
 }
 
 #tribute-info cite {
-    padding: 30px;
+  padding: 30px;
+}
+#tribute-link {
+  text-decoration: none;
 }
